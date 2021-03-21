@@ -6,11 +6,11 @@
     "scope": "/dkid",
     "display": "fullscreen",
     "start_url": "https://f1sk.github.io/dkid/",
-    "background_color": "none",
-    "theme_color": "transparent",
     "description": "Kørekort",
     "orientation": "portrait",
     "related_applications": [],
+    "background_color": "#01152E",
+    "theme_color": "#01152E",
     "prefer_related_applications": false,
     "url": "https://f1sk.github.io/dkid/.",
     "icons": [
