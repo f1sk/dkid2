@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "lang": "Danish",
+    "name": "Kørekort",
+    "short_name": "Kørekort",
+    "scope": "/dkid",
+    "display": "fullscreen",
+    "start_url": "https://f1sk.github.io/dkid/",
+    "background_color": "none",
+    "theme_color": "transparent",
+    "description": "Kørekort",
+    "orientation": "portrait",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://f1sk.github.io/dkid/."
+}
