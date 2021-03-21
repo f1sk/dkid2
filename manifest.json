@@ -5,18 +5,18 @@
     "short_name": "Kørekort",
     "scope": "/dkid",
     "display": "fullscreen",
+    "background_color": "#01152E",
+    "theme_color": "#01152E",
     "start_url": "https://f1sk.github.io/dkid/",
     "description": "Kørekort",
     "orientation": "portrait",
     "related_applications": [],
-    "background_color": "#01152E",
-    "theme_color": "#01152E",
     "prefer_related_applications": false,
     "url": "https://f1sk.github.io/dkid/.",
     "icons": [
         {
             "src": "https://f1sk.github.io/dkid/assets/ic_launcher_foreground.png",
-            "type": "image/jpeg",
+            "type": "image/png",
             "sizes": "1920x1080"
         }
     ]
