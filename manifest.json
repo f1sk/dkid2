@@ -3,7 +3,7 @@
     "lang": "Danish",
     "name": "Kørekort",
     "short_name": "Kørekort",
-    "scope": "/dkid",
+    "scope": "/dkid2",
     "display": "fullscreen",
     "background_color": "#01152E",
     "theme_color": "#01152E",
